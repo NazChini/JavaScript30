@@ -1,0 +1,2 @@
+- Practiced arracy methods like some, every, find, filter, map, sort and reduce. 
+- Learnt how to get current year from build in JS date object.
